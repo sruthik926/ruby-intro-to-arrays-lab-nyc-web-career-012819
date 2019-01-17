@@ -6,3 +6,7 @@ def array_with_two_elements
    arr = Array.new
   return Array.new(2)
 end
+
+def first_element
+  return arr[0]
+end
